@@ -1,5 +1,5 @@
 # hello_world
 
-Hi!
+Hi there!
 
-How´s it going?
+How´s it going today?
